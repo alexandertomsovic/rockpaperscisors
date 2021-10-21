@@ -11,7 +11,7 @@ def clrscr():
 print(elements.welcome_elem)       
 play = "Y"
 while play == "Y" or play == "y": 
-  choice = int(input("Enter Your Choose:\nType 0 for Rock , 1 for Paper , 2 for scissors:\n)> "))
+  choice = int(input("Enter Your Choice:\nType 0 for Rock , 1 for Paper , 2 for scissors:\n)> "))
   if choice == 0 or choice == 1 or choice == 2:
     print("Your choice:")
     if choice == 0:
