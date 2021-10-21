@@ -7,7 +7,7 @@ rock_element = '''
 ---.__(___)
 '''
 
-paper_elemebnt = '''
+paper_element = '''
     _______
 ---'   ____)____
           ______)
